@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=09D3AC&background=000000&center=true&vCenter=true&width=435&lines=SOFTWARE+ENGINEER)](https://git.io/typing-svg)
